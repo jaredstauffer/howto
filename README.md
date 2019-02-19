@@ -1,5 +1,4 @@
-# howto
-How to ... (in code)
+# How to ... (in code)
 
 This repo contains various quick how to snippets of code for easy reference. Below is a list of the how to's so far. More to come...
 
