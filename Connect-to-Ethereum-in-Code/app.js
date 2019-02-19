@@ -24,7 +24,7 @@
 const Web3 = require('web3');
 
 // URL of the blockchain network
-var url = 'https://mainnet.infura.io/v3/61b8b2d78ce24663b24ca40e8f49c852';
+var url = 'YOUR-URL'; // replace with your Infura URL
 
 // create the connection
 var web3 = new Web3(url);
